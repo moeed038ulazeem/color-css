@@ -1,0 +1,25 @@
+h1{
+    color: rgb(235, 18, 18);
+} 
+ BACKGROUND COLOR 
+body{
+    background-color: tan;
+    color: rgba(55, 255, 0, 0.256);
+} 
+div{
+    background-color: wheat;
+    
+} 
+
+ OPACITY 
+    #div1{
+        background-color: grey;
+        opacity: 0.1;
+    }
+    
+    img{
+        background-color: blueviolet;
+        opacity: 4;
+
+    }
+
